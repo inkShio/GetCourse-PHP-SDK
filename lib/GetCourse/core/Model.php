@@ -37,7 +37,7 @@ class Model
 		if(!self::$accountName) {
 			throw new \Exception("Account name not supplied");
 		}
-		return 'https://' . self::$accountName . '.getcourse.ru/pl/api/';
+		return 'https://' . self::$accountName . '/pl/api/';
 	}
 
 	/**

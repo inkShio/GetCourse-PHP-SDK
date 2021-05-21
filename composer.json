@@ -1,10 +1,10 @@
 {
-  "name": "inkShio/GetCourse-PHP-SDK",
+  "name": "inkshio/getcourse-php-sdk",
   "description": "GetCourse's PHP SDK for APIs",
   "keywords": ["getcourse", "api", "sdk"],
   "type": "library",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/getcourse-ru/GetCourse-PHP-SDK",
+  "homepage": "https://github.com/inkshio/getcourse-php-sdk",
   "authors": [
     {
       "name": "GetCourse API",
